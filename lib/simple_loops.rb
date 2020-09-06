@@ -16,4 +16,6 @@ def output_array(array)
   while i < array.length
     puts array[i]
     i++
+  end
 end
+
