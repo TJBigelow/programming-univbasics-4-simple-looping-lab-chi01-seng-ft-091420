@@ -21,7 +21,7 @@ end
 
 def return_string_array(array)
   i = 0
-  return_array
+  return_array = []
   while i < array.length do
     return_array.push(array[i].to_s)
     i += 1
