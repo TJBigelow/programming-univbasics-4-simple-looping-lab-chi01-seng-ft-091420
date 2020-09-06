@@ -18,3 +18,4 @@ def output_array(array)
     i++
   end
 end
+
